@@ -1,31 +1,23 @@
-'use strict';/*!
- * This is a `i18n` language object.
- *
- * Swedish
- *
- * @author
- *   Petter (Twitter: @petter_j)
- *
- * @see core/i18n.js
- */
+'use strict';
+
 (function (exports) {
 	if (exports.sv === undefined) {
 		exports.sv = {
-			'mejs.plural-form': 1,			
-			'mejs.download-file': 'Ladda ner fil',			
-			'mejs.install-flash': 'Du använder en webbläsare som inte har Flash Player aktiverat eller installerad. Aktivera Flash Player eller hämta den senaste versionen från https://get.adobe.com/flashplayer/',			
-			'mejs.fullscreen': 'Fullskärm',			
+			'mejs.plural-form': 1,
+			'mejs.download-file': 'Ladda ner fil',
+			'mejs.install-flash': 'Du använder en webbläsare som inte har Flash Player aktiverat eller installerad. Aktivera Flash Player eller hämta den senaste versionen från https://get.adobe.com/flashplayer/',
+			'mejs.fullscreen': 'Fullskärm',
 			'mejs.play': 'Spela',
-			'mejs.pause': 'Pausa',			
+			'mejs.pause': 'Pausa',
 			'mejs.time-slider': 'Tidslinje',
 			'mejs.time-help-text': 'Använd Vänster/Höger piltangent för att spola en sekund, Upp/Ner piltangent spola tio sekunder.',
-			'mejs.live-broadcast': 'Livesändning',			
+			'mejs.live-broadcast': 'Livesändning',
 			'mejs.volume-help-text': 'Använd Upp/Ner piltangent för att öka eller minska volymen.',
 			'mejs.unmute': 'Ljud på',
 			'mejs.mute': 'Ljud av',
-			'mejs.volume-slider': 'Volymkontroll',			
+			'mejs.volume-slider': 'Volymkontroll',
 			'mejs.video-player': 'Videospelare',
-			'mejs.audio-player': 'Ljudspelare',			
+			'mejs.audio-player': 'Ljudspelare',
 			'mejs.captions-subtitles': 'Textning/Undertexter',
 			'mejs.captions-chapters': 'Kapitel',
 			'mejs.none': 'Ingen',

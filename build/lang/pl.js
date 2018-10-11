@@ -1,32 +1,23 @@
-'use strict';/*!
- * This is a `i18n` language object.
- *
- * Polish
- *
- * @author
- *   Jalios (Twitter: @Jalios)
- *   Sascha Greuel (Twitter: @SoftCreatR)
- *
- * @see core/i18n.js
- */
+'use strict';
+
 (function (exports) {
 	if (exports.pl === undefined) {
 		exports.pl = {
-			'mejs.plural-form': 9,			
-			'mejs.download-file': 'Pobierz plik',			
-			'mejs.install-flash': 'Twoja przeglądarka nie ma włączonej lub zainstalowanej wtyczki Flash Player. Prosimy ją włączyć lub pobrać najnowszą wersję ze strony https://get.adobe.com/flashplayer/',			
-			'mejs.fullscreen': 'Pełny ekran',			
+			'mejs.plural-form': 9,
+			'mejs.download-file': 'Pobierz plik',
+			'mejs.install-flash': 'Twoja przeglądarka nie ma włączonej lub zainstalowanej wtyczki Flash Player. Prosimy ją włączyć lub pobrać najnowszą wersję ze strony https://get.adobe.com/flashplayer/',
+			'mejs.fullscreen': 'Pełny ekran',
 			'mejs.play': 'Odtwarzaj',
-			'mejs.pause': 'Wstrzymaj',			
+			'mejs.pause': 'Wstrzymaj',
 			'mejs.time-slider': 'Suwak czasu',
 			'mejs.time-help-text': 'Strzałki w lewo/w prawo powodują przewijanie o sekundę, strzałki w górę/w dół o dziesięć sekund.',
-			'mejs.live-broadcast': 'Transmisja na żywo',			
+			'mejs.live-broadcast': 'Transmisja na żywo',
 			'mejs.volume-help-text': 'Aby zwiększyć lub zmniejszyć głośność, użyj strzałek w górę/w dół.',
 			'mejs.unmute': 'Wyłącz wyciszenie',
 			'mejs.mute': 'Wycisz',
-			'mejs.volume-slider': 'Suwak głośności',			
+			'mejs.volume-slider': 'Suwak głośności',
 			'mejs.video-player': 'Odtwarzacz wideo',
-			'mejs.audio-player': 'Odtwarzacz audio',			
+			'mejs.audio-player': 'Odtwarzacz audio',
 			'mejs.captions-subtitles': 'Podpisy/napisy',
 			'mejs.captions-chapters': 'Rozdziały',
 			'mejs.none': 'Brak',

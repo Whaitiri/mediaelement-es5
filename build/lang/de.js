@@ -1,32 +1,23 @@
-'use strict';/*!
- * This is a `i18n` language object.
- *
- * German
- *
- * @author
- *   Jalios (Twitter: @Jalios)
- *   Sascha Greuel (Twitter: @SoftCreatR)
- *
- * @see core/i18n.js
- */
+'use strict';
+
 (function (exports) {
 	if (exports.de === undefined) {
 		exports.de = {
-			'mejs.plural-form': 1,			
-			'mejs.download-file': 'Datei herunterladen',			
-			'mejs.install-flash': 'Ihr Browser unterstützt kein Flash. Bitte aktivieren Sie Flash bzw. laden Sie die aktuellste Flash-Version herunter unter https://get.adobe.com/flashplayer/',			
-			'mejs.fullscreen': 'Vollbild',			
+			'mejs.plural-form': 1,
+			'mejs.download-file': 'Datei herunterladen',
+			'mejs.install-flash': 'Ihr Browser unterstützt kein Flash. Bitte aktivieren Sie Flash bzw. laden Sie die aktuellste Flash-Version herunter unter https://get.adobe.com/flashplayer/',
+			'mejs.fullscreen': 'Vollbild',
 			'mejs.play': 'Abspielen',
-			'mejs.pause': 'Pause',			
+			'mejs.pause': 'Pause',
 			'mejs.time-slider': 'Zeitschieberegler',
 			'mejs.time-help-text': 'Verwende die Pfeiltaste nach links/rechts, um eine Sekunde zu spulen, hoch/runter um zehn Sekunden zu spulen.',
-			'mejs.live-broadcast' : 'Live-Übertragung',			
+			'mejs.live-broadcast': 'Live-Übertragung',
 			'mejs.volume-help-text': 'Verwende die Pfeiltaste nach oben/nach unten um die Lautstärke zu erhöhen oder zu verringern.',
 			'mejs.unmute': 'Stummschaltung aufheben',
 			'mejs.mute': 'Stummschalten',
-			'mejs.volume-slider': 'Lautstärkeregler',			
+			'mejs.volume-slider': 'Lautstärkeregler',
 			'mejs.video-player': 'Video-Player',
-			'mejs.audio-player': 'Audio-Player',			
+			'mejs.audio-player': 'Audio-Player',
 			'mejs.captions-subtitles': 'Überschriften/Untertitel',
 			'mejs.captions-chapters': 'Kapitel',
 			'mejs.none': 'Keine',

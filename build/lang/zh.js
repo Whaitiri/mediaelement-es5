@@ -1,33 +1,23 @@
-'use strict';/*!
- * This is a `i18n` language object.
- *
- * Chinese (Traditional)
- *
- * @author
- *   Jalios (Twitter: @Jalios)
- *   Sascha Greuel (Twitter: @SoftCreatR)
- *   Peter Dave Hello (Twitter: @PeterDaveHello)
- *
- * @see core/i18n.js
- */
+'use strict';
+
 (function (exports) {
 	if (exports.zh === undefined) {
 		exports.zh = {
-			'mejs.plural-form': 0,			
-			'mejs.download-file': '下載檔案',			
-			'mejs.install-flash': '您正在使用未啟用或安裝Flash播放器的瀏覽器。請打開您的Flash Player插件,或從https://get.adobe.com/flashplayer/下載最新版本',			
-			'mejs.fullscreen': '全螢幕',			
+			'mejs.plural-form': 0,
+			'mejs.download-file': '下載檔案',
+			'mejs.install-flash': '您正在使用未啟用或安裝Flash播放器的瀏覽器。請打開您的Flash Player插件,或從https://get.adobe.com/flashplayer/下載最新版本',
+			'mejs.fullscreen': '全螢幕',
 			'mejs.play': '播放',
-			'mejs.pause': '暫停',			
+			'mejs.pause': '暫停',
 			'mejs.time-slider': '時間軸',
 			'mejs.time-help-text': '使用左/右箭頭快轉1秒,上/下箭頭快轉10秒。',
-			'mejs.live-broadcast' : '現場直播',			
+			'mejs.live-broadcast': '現場直播',
 			'mejs.volume-help-text': '使用上/下箭頭提高或降低音量。',
 			'mejs.unmute': '取消靜音',
 			'mejs.mute': '靜音',
-			'mejs.volume-slider': '音量控制鍵',			
+			'mejs.volume-slider': '音量控制鍵',
 			'mejs.video-player': '影片播放器',
-			'mejs.audio-player': '音樂播放器',			
+			'mejs.audio-player': '音樂播放器',
 			'mejs.captions-subtitles': '字幕/標題',
 			'mejs.captions-chapters': '章節',
 			'mejs.none': '無',

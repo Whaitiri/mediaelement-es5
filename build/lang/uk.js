@@ -1,31 +1,23 @@
-'use strict';/*!
- * This is a `i18n` language object.
- *
- * Ukrainian
- *
- * @author
- *   Dmitry Krekota (dmitry.krekota@gmail.com)
- *
- * @see core/i18n.js
- */
+'use strict';
+
 (function (exports) {
 	if (exports.uk === undefined) {
 		exports.uk = {
-			'mejs.plural-form': 7,			
-			'mejs.download-file': 'Завантажити файл',			
-			'mejs.install-flash': 'Flash Player у вашому браузері не встановлений або відключений. Будь ласка включіть Flash Player або скачайте останню версію із https://get.adobe.com/flashplayer/',			
-			'mejs.fullscreen': 'Повноекранний режим',			
+			'mejs.plural-form': 7,
+			'mejs.download-file': 'Завантажити файл',
+			'mejs.install-flash': 'Flash Player у вашому браузері не встановлений або відключений. Будь ласка включіть Flash Player або скачайте останню версію із https://get.adobe.com/flashplayer/',
+			'mejs.fullscreen': 'Повноекранний режим',
 			'mejs.play': 'Пуск',
-			'mejs.pause': 'Пауза',			
+			'mejs.pause': 'Пауза',
 			'mejs.time-slider': 'Повзунок часу',
 			'mejs.time-help-text': 'Використовуйте ліву/праву клавіші зі стрілками, щоб переміститися на одну секунду, або клавіші вверх/вниз, щоб переміститися на десять секунд.',
-			'mejs.live-broadcast' : 'Пряма трансляція',			
+			'mejs.live-broadcast': 'Пряма трансляція',
 			'mejs.volume-help-text': 'Використовуйте клавіші зі стрілками вверх/вниз, щоб збільшити або зменшити звук.',
 			'mejs.unmute': 'Включити звук',
 			'mejs.mute': 'Відключити звук',
-			'mejs.volume-slider': 'Повзунок звуку',			
+			'mejs.volume-slider': 'Повзунок звуку',
 			'mejs.video-player': 'Відеоплеєр',
-			'mejs.audio-player': 'Аудіоплеєр',			
+			'mejs.audio-player': 'Аудіоплеєр',
 			'mejs.captions-subtitles': 'Титри/Субтитри',
 			'mejs.captions-chapters': 'Глави',
 			'mejs.none': 'Немає',

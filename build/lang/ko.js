@@ -1,32 +1,23 @@
-'use strict';/*!
- * This is a `i18n` language object.
- *
- * Korean
- *
- * @author
- *   Jalios (Twitter: @Jalios)
- *   Sascha 'SoftCreatR' Greuel
- *
- * @see core/i18n.js
- */
+'use strict';
+
 (function (exports) {
 	if (exports.ko === undefined) {
 		exports.ko = {
-			'mejs.plural-form': 0,			
-			'mejs.download-file': '파일 다운로드',			
-			'mejs.install-flash': 'Flash Player가 활성화되거나 설치되지 않은 브라우저를 사용 중입니다. 플래시 플레이어 플러그인을 켜거나 https://get.adobe.com/flashplayer/에서 최신 버전을 다운로드하십시오.',			
-			'mejs.fullscreen': '전체화면',			
+			'mejs.plural-form': 0,
+			'mejs.download-file': '파일 다운로드',
+			'mejs.install-flash': 'Flash Player가 활성화되거나 설치되지 않은 브라우저를 사용 중입니다. 플래시 플레이어 플러그인을 켜거나 https://get.adobe.com/flashplayer/에서 최신 버전을 다운로드하십시오.',
+			'mejs.fullscreen': '전체화면',
 			'mejs.play': '작동',
-			'mejs.pause': '정지',			
+			'mejs.pause': '정지',
 			'mejs.time-slider': '시간 슬라이더',
 			'mejs.time-help-text': '1초 전진하려면 좌/우측 화살표를 사용하시고 10초 전진하려면 위/아래 화살표를 사용하세요.',
-			'mejs.live-broadcast' : '생방송',			
+			'mejs.live-broadcast': '생방송',
 			'mejs.volume-help-text': '볼륨을 높이거나 낮추려면 위/아래 화살표를 이용하세요.',
 			'mejs.unmute': '음소거 해제',
 			'mejs.mute': '말 없는',
-			'mejs.volume-slider': '볼륨 슬라이더',			
+			'mejs.volume-slider': '볼륨 슬라이더',
 			'mejs.video-player': '비디오 플레이어',
-			'mejs.audio-player': '오디오 플레이어',			
+			'mejs.audio-player': '오디오 플레이어',
 			'mejs.captions-subtitles': '캡션/자막',
 			'mejs.captions-chapters': '챕터',
 			'mejs.none': '없음',

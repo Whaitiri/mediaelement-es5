@@ -1,32 +1,23 @@
-'use strict';/*!
- * This is a `i18n` language object.
- *
- * Japanese
- *
- * @author
- *   Jalios (Twitter: @Jalios)
- *   Sascha 'SoftCreatR' Greuel
- *
- * @see core/i18n.js
- */
+'use strict';
+
 (function (exports) {
 	if (exports.ja === undefined) {
 		exports.ja = {
-			'mejs.plural-form': 0,			
-			'mejs.download-file': 'ファイルをダウンロードする',			
-			'mejs.install-flash': 'Flash Playerが有効またはインストールされていないブラウザを使用しています。Flash Playerプラグインをオンにするか,https://get.adobe.com/flashplayer/から最新バージョンをダウンロードしてください。',			
-			'mejs.fullscreen': '全画面',			
+			'mejs.plural-form': 0,
+			'mejs.download-file': 'ファイルをダウンロードする',
+			'mejs.install-flash': 'Flash Playerが有効またはインストールされていないブラウザを使用しています。Flash Playerプラグインをオンにするか,https://get.adobe.com/flashplayer/から最新バージョンをダウンロードしてください。',
+			'mejs.fullscreen': '全画面',
 			'mejs.play': '再生',
-			'mejs.pause': '一時停止',			
+			'mejs.pause': '一時停止',
 			'mejs.time-slider': 'タイムスライダー',
 			'mejs.time-help-text': '1秒進めるには左/右矢印をキーを,10秒進めるには上/下矢印を使います。',
-			'mejs.live-broadcast': 'ライブブロードキャスト',			
+			'mejs.live-broadcast': 'ライブブロードキャスト',
 			'mejs.volume-help-text': '音量を上げたり下げたりするには,上/下矢印を使います。',
 			'mejs.unmute': 'ミュートを解除',
 			'mejs.mute': 'ミュート',
-			'mejs.volume-slider': '音量スライダー',			
+			'mejs.volume-slider': '音量スライダー',
 			'mejs.video-player': 'ビデオプレーヤー',
-			'mejs.audio-player': 'オーディオプレーヤー',			
+			'mejs.audio-player': 'オーディオプレーヤー',
 			'mejs.captions-subtitles': 'キャプション/字幕',
 			'mejs.captions-chapters': '章',
 			'mejs.none': 'なし',

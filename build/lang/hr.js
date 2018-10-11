@@ -1,29 +1,23 @@
-'use strict';/*!
- * This is a `i18n` language object.
- *
- * Croatian
- *
- * @author
- *   Hrvoj3e (hrvoj3e@gmail.com) * @see core/i18n.js
- */
+'use strict';
+
 (function (exports) {
 	if (exports.hr === undefined) {
 		exports.hr = {
-			'mejs.plural-form': 7,			
-			'mejs.download-file': 'Preuzmi datoteku',			
-			'mejs.install-flash': 'Koristite preglednik koji nema omogućen ili instaliran Flash preglednik. Molimo Vas uključite Flash dodatak ili preuzmite najnoviju verziju s https://get.adobe.com/flashplayer/',			
-			'mejs.fullscreen': 'Puni zaslon',			
+			'mejs.plural-form': 7,
+			'mejs.download-file': 'Preuzmi datoteku',
+			'mejs.install-flash': 'Koristite preglednik koji nema omogućen ili instaliran Flash preglednik. Molimo Vas uključite Flash dodatak ili preuzmite najnoviju verziju s https://get.adobe.com/flashplayer/',
+			'mejs.fullscreen': 'Puni zaslon',
 			'mejs.play': 'Pokreni',
-			'mejs.pause': 'Zaustavi',			
+			'mejs.pause': 'Zaustavi',
 			'mejs.time-slider': 'Vremenska traka',
 			'mejs.time-help-text': 'Koristi strelice lijevo/desno za pomak naprijed za 1 sekundu te gore/dolje za pomak od 10 sekundi.',
-			'mejs.live-broadcast' : 'Prijenos uživo',			
+			'mejs.live-broadcast': 'Prijenos uživo',
 			'mejs.volume-help-text': 'Koristi strelice gore/dolje za pojačavanje ili stišavanje.',
 			'mejs.unmute': 'Uključi zvuk',
 			'mejs.mute': 'Isključi zvuk',
-			'mejs.volume-slider': 'Pokazivač razine zvuka',			
+			'mejs.volume-slider': 'Pokazivač razine zvuka',
 			'mejs.video-player': 'Video preglednik',
-			'mejs.audio-player': 'Audio preglednik',			
+			'mejs.audio-player': 'Audio preglednik',
 			'mejs.captions-subtitles': 'Opisi/Prijevodi',
 			'mejs.captions-chapters': 'Poglavlja',
 			'mejs.none': 'Ništa',

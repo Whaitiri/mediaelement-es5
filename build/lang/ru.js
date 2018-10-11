@@ -1,32 +1,23 @@
-'use strict';/*!
- * This is a `i18n` language object.
- *
- * Russian
- *
- * @author
- *   Jalios (Twitter: @Jalios)
- *   Sascha Greuel (Twitter: @SoftCreatR)
- *
- * @see core/i18n.js
- */
+'use strict';
+
 (function (exports) {
 	if (exports.ru === undefined) {
 		exports.ru = {
-			'mejs.plural-form': 7,			
-			'mejs.download-file': 'Скачать файл',			
-			'mejs.install-flash': 'Flash player в вашем браузере не установлен или отключен. Пожалуйста включите ваш Flash player или скачайте последнюю версию с https://get.adobe.com/flashplayer/',			
-			'mejs.fullscreen': 'Полноэкранный режим',			
+			'mejs.plural-form': 7,
+			'mejs.download-file': 'Скачать файл',
+			'mejs.install-flash': 'Flash player в вашем браузере не установлен или отключен. Пожалуйста включите ваш Flash player или скачайте последнюю версию с https://get.adobe.com/flashplayer/',
+			'mejs.fullscreen': 'Полноэкранный режим',
 			'mejs.play': 'Воспроизвести',
-			'mejs.pause': 'Пауза',			
+			'mejs.pause': 'Пауза',
 			'mejs.time-slider': 'Слайдер времени',
 			'mejs.time-help-text': 'Используйте Левую/Правую клавиши со стрелками, чтобы продвинуться на одну секунду, клавиши со стрелками Вверх/Вниз, чтобы продвинуться на десять секунд.',
-			'mejs.live-broadcast' : 'Прямая трансляция',			
+			'mejs.live-broadcast': 'Прямая трансляция',
 			'mejs.volume-help-text': 'Используйте клавиши со стрелками Вверх/Вниз, чтобы увеличить или уменьшить громкость.',
 			'mejs.unmute': 'Включить звук',
 			'mejs.mute': 'Отключить звук',
-			'mejs.volume-slider': 'Слайдер громкости',			
+			'mejs.volume-slider': 'Слайдер громкости',
 			'mejs.video-player': 'Видеоплеер',
-			'mejs.audio-player': 'Аудиоплеер',			
+			'mejs.audio-player': 'Аудиоплеер',
 			'mejs.captions-subtitles': 'Титры/Субтитры',
 			'mejs.captions-chapters': 'Главы',
 			'mejs.none': 'Нет',

@@ -1,32 +1,23 @@
-'use strict';/*!
- * This is a `i18n` language object.
- *
- * Czech
- *
- * @author
- *   Jalios (Twitter: @Jalios)
- *   Sascha Greuel (Twitter: @SoftCreatR)
- *
- * @see core/i18n.js
- */
+'use strict';
+
 (function (exports) {
 	if (exports.cs === undefined) {
 		exports.cs = {
-			'mejs.plural-form': 8,			
-			'mejs.download-file': 'Stáhnout soubor',			
-			'mejs.install-flash': 'Používáte prohlížeč, který nemá Flash Player povolen nebo nainstalován. Zapněte plugin Flash Player nebo stáhněte nejnovější verzi z adresy https://get.adobe.com/flashplayer/',			
-			'mejs.fullscreen': 'Celá obrazovka',			
+			'mejs.plural-form': 8,
+			'mejs.download-file': 'Stáhnout soubor',
+			'mejs.install-flash': 'Používáte prohlížeč, který nemá Flash Player povolen nebo nainstalován. Zapněte plugin Flash Player nebo stáhněte nejnovější verzi z adresy https://get.adobe.com/flashplayer/',
+			'mejs.fullscreen': 'Celá obrazovka',
 			'mejs.play': 'Přehrát',
-			'mejs.pause': 'Pozastavit',			
+			'mejs.pause': 'Pozastavit',
 			'mejs.time-slider': 'Posuvný běžec nastavení času',
 			'mejs.time-help-text': 'Použijte tlačítka se šipkami doleva / doprava pro posun o jednu vteřinu, tlačítka se šipkami nahoru / dolů pro posun o deset vteřin.',
-			'mejs.live-broadcast' : 'Živé vysílání',			
+			'mejs.live-broadcast': 'Živé vysílání',
 			'mejs.volume-help-text': 'Použijte tlačítka se šipkami nahoru / dolů pro zesílení nebo zeslabení hlasitosti.',
 			'mejs.unmute': 'Zapnout zvuk',
 			'mejs.mute': 'Vypnout zvuk',
-			'mejs.volume-slider': 'Posuvný běžec nastavení hlasitosti',			
+			'mejs.volume-slider': 'Posuvný běžec nastavení hlasitosti',
 			'mejs.video-player': 'Přehrávač videa',
-			'mejs.audio-player': 'Přehrávač hudby',			
+			'mejs.audio-player': 'Přehrávač hudby',
 			'mejs.captions-subtitles': 'Titulky',
 			'mejs.captions-chapters': 'Kapitoly',
 			'mejs.none': 'Žádný',

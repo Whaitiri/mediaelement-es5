@@ -1,32 +1,23 @@
-'use strict';/*!
- * This is a `i18n` language object.
- *
- * Romanian
- *
- * @author
- *   Jalios (Twitter: @Jalios)
- *   Sascha Greuel (Twitter: @SoftCreatR)
- *
- * @see core/i18n.js
- */
+'use strict';
+
 (function (exports) {
 	if (exports.ro === undefined) {
 		exports.ro = {
-			'mejs.plural-form': 5,			
-			'mejs.download-file': 'Descarcă fişierul',			
-			'mejs.install-flash': 'Utilizați un browser care nu are activat sau instalat playerul Flash. Porniți pluginul Flash player sau descărcați cea mai recentă versiune de la https://get.adobe.com/flashplayer/',			
-			'mejs.fullscreen': 'Ecran complet',			
+			'mejs.plural-form': 5,
+			'mejs.download-file': 'Descarcă fişierul',
+			'mejs.install-flash': 'Utilizați un browser care nu are activat sau instalat playerul Flash. Porniți pluginul Flash player sau descărcați cea mai recentă versiune de la https://get.adobe.com/flashplayer/',
+			'mejs.fullscreen': 'Ecran complet',
 			'mejs.play': 'Redare',
-			'mejs.pause': 'Pauză',			
+			'mejs.pause': 'Pauză',
 			'mejs.time-slider': 'Cursor timp',
 			'mejs.time-help-text': 'Utilizează tastele săgeată Stânga/Dreapta pentru a avansa o secundă şi săgeţile Sus/Jos pentru a avansa zece secunde.',
-			'mejs.live-broadcast' : 'Difuzare în direct',			
+			'mejs.live-broadcast': 'Difuzare în direct',
 			'mejs.volume-help-text': 'Utilizează tastele de săgeată Sus/Jos pentru a creşte/micşora volumul',
 			'mejs.unmute': 'Cu sunet',
 			'mejs.mute': 'Fără sunet',
-			'mejs.volume-slider': 'Cursor volum',			
+			'mejs.volume-slider': 'Cursor volum',
 			'mejs.video-player': 'Player video',
-			'mejs.audio-player': 'Player audio',			
+			'mejs.audio-player': 'Player audio',
 			'mejs.captions-subtitles': 'Legende/Subtitrări',
 			'mejs.captions-chapters': 'Capitolele',
 			'mejs.none': 'Niciunul',

@@ -1,32 +1,23 @@
-'use strict';/*!
- * This is a `i18n` language object.
- *
- * Malay (for inter-country use - see the countries mentioned in infobox`s `native to` at https://en.wikipedia.org/wiki/Malay_language)
- *
- * @author
- *   muhdnurhidayat (Twitter: @mnh48com)
- *   Sascha Greuel (Twitter: @SoftCreatR)
- *
- * @see core/i18n.js
- */
+'use strict';
+
 (function (exports) {
 	if (exports.ms === undefined) {
 		exports.ms = {
-			'mejs.plural-form': 0,			
-			'mejs.download-file': 'Muat Turun Fail',			
-			'mejs.install-flash': 'Anda sedang menggunakan pelayar internet yang tidak mempunyai pemain Flash. Sila aktifkan pemalam pemain Flash anda atau muat turun versi terbaru dari https://get.adobe.com/flashplayer/',			
-			'mejs.fullscreen': 'Skrin penuh',			
+			'mejs.plural-form': 0,
+			'mejs.download-file': 'Muat Turun Fail',
+			'mejs.install-flash': 'Anda sedang menggunakan pelayar internet yang tidak mempunyai pemain Flash. Sila aktifkan pemalam pemain Flash anda atau muat turun versi terbaru dari https://get.adobe.com/flashplayer/',
+			'mejs.fullscreen': 'Skrin penuh',
 			'mejs.play': 'Main',
-			'mejs.pause': 'Jeda',			
+			'mejs.pause': 'Jeda',
 			'mejs.time-slider': 'Lungsur Masa',
 			'mejs.time-help-text': 'Gunakan kekunci Anak Panah Kiri/Kanan untuk bergerak satu saat, Anak Panah Atas/Bawah untuk bergerak sepuluh saat.',
-			'mejs.live-broadcast' : 'Siaran Langsung',			
+			'mejs.live-broadcast': 'Siaran Langsung',
 			'mejs.volume-help-text': 'Gunakan kekunci Anak Panah Atas/Bawah untuk menguatkan atau memperlahankan bunyi.',
 			'mejs.unmute': 'Nyahsenyap',
 			'mejs.mute': 'Senyap',
-			'mejs.volume-slider': 'Lungsur Bunyi',			
+			'mejs.volume-slider': 'Lungsur Bunyi',
 			'mejs.video-player': 'Pemain Video',
-			'mejs.audio-player': 'Pemain Audio',			
+			'mejs.audio-player': 'Pemain Audio',
 			'mejs.captions-subtitles': 'Sarikata',
 			'mejs.captions-chapters': 'Bab',
 			'mejs.none': 'Tiada',

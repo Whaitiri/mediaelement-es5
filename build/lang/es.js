@@ -1,32 +1,23 @@
-/*!
- * This is a `i18n` language object.
- *
- * Spanish
- *
- * @author
- *   Jalios (Twitter: @Jalios)
- *   Sascha Greuel (Twitter: @SoftCreatR)
- *   Rafael Miranda (GitHub: @rafa8626)
- *
- * @see core/i18n.js
- */(function (exports) {
+'use strict';
+
+(function (exports) {
 	if (exports.es === undefined) {
 		exports.es = {
-			'mejs.plural-form': 1,			
-			'mejs.download-file': 'Descargar archivo',			
-			'mejs.install-flash': 'Esta usando un navegador que no tiene activado o instalado el reproductor de Flash. Por favor active el plugin del reproductor de Flash o descargue la versión más reciente en https://get.adobe.com/flashplayer/',			
-			'mejs.fullscreen': 'Pantalla completa',			
+			'mejs.plural-form': 1,
+			'mejs.download-file': 'Descargar archivo',
+			'mejs.install-flash': 'Esta usando un navegador que no tiene activado o instalado el reproductor de Flash. Por favor active el plugin del reproductor de Flash o descargue la versión más reciente en https://get.adobe.com/flashplayer/',
+			'mejs.fullscreen': 'Pantalla completa',
 			'mejs.play': 'Reproducción',
-			'mejs.pause': 'Pausa',			
+			'mejs.pause': 'Pausa',
 			'mejs.time-slider': 'Control deslizante de tiempo',
 			'mejs.time-help-text': 'Use las flechas Izquierda/Derecha para avanzar un segundo y las flechas Arriba/Abajo para avanzar diez segundos.',
-			'mejs.live-broadcast': 'Transmisión en Vivo',			
+			'mejs.live-broadcast': 'Transmisión en Vivo',
 			'mejs.volume-help-text': 'Use las flechas Arriba/Abajo para subir o bajar el volumen.',
 			'mejs.unmute': 'Reactivar silencio',
 			'mejs.mute': 'Silencio',
-			'mejs.volume-slider': 'Control deslizante de volumen',			
+			'mejs.volume-slider': 'Control deslizante de volumen',
 			'mejs.video-player': 'Reproductor de video',
-			'mejs.audio-player': 'Reproductor de audio',			
+			'mejs.audio-player': 'Reproductor de audio',
 			'mejs.captions-subtitles': 'Leyendas/Subtítulos',
 			'mejs.captions-chapters': 'Capítulos',
 			'mejs.none': 'Ninguno',

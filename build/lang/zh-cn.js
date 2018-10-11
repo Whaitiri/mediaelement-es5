@@ -1,32 +1,23 @@
-'use strict';/*!
- * This is a `i18n` language object.
- *
- * Chinese (Simplified)
- *
- * @author
- *   Jalios (Twitter: @Jalios)
- *   Sascha Greuel (Twitter: @SoftCreatR)
- *
- * @see core/i18n.js
- */
+'use strict';
+
 (function (exports) {
 	if (exports['zh-CN'] === undefined) {
 		exports['zh-CN'] = {
-			'mejs.plural-form': 0,			
-			'mejs.download-file': '下载文件',			
-			'mejs.install-flash': '您正在使用未启用或安装Flash播放器的浏览器。请打开您的Flash Player插件，或从https://get.adobe.com/flashplayer/下载最新版本',			
-			'mejs.fullscreen': '全屏',			
+			'mejs.plural-form': 0,
+			'mejs.download-file': '下载文件',
+			'mejs.install-flash': '您正在使用未启用或安装Flash播放器的浏览器。请打开您的Flash Player插件，或从https://get.adobe.com/flashplayer/下载最新版本',
+			'mejs.fullscreen': '全屏',
 			'mejs.play': '播放',
-			'mejs.pause': '暂停',			
+			'mejs.pause': '暂停',
 			'mejs.time-slider': '时间滑动棒',
 			'mejs.time-help-text': '使用作/右箭头快进1秒,使用上/下箭头快进10秒。',
-			'mejs.live-broadcast' : '现场直播',			
+			'mejs.live-broadcast': '现场直播',
 			'mejs.volume-help-text': '使用上/下箭头提高或降低音量。',
 			'mejs.unmute': '取消静音',
 			'mejs.mute': '静音',
-			'mejs.volume-slider': '音量选择键',			
+			'mejs.volume-slider': '音量选择键',
 			'mejs.video-player': '视频播放器',
-			'mejs.audio-player': '音频播放器',			
+			'mejs.audio-player': '音频播放器',
 			'mejs.captions-subtitles': '字幕/标题',
 			'mejs.captions-chapters': '章',
 			'mejs.none': '无',

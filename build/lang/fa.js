@@ -1,15 +1,8 @@
-/*!
- * This is a `i18n` language object.
- *
- * Persian
- *
- * @author
- *   wmateam (GitHub: @wmateam)
- *
- * @see core/i18n.js
- */(function (exports) {
+'use strict';
+
+(function (exports) {
     'use strict';
-    
+
     if (exports.fa === undefined) {
         exports.fa = {
             'mejs.plural-form': 0,

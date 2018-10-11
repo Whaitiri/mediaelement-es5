@@ -1,33 +1,23 @@
-'use strict';/*!
- * This is a `i18n` language object.
- *
- * Dutch
- *
- * @author
- *   Leonard de Ruijter, Twitter: @LeonarddR
- *   Jalios (Twitter: @Jalios)
- *   Sascha 'SoftCreatR' Greuel
- *
- * @see core/i18n.js
- */
+'use strict';
+
 (function (exports) {
 	if (exports.nl === undefined) {
 		exports.nl = {
-			'mejs.plural-form': 1,			
-			'mejs.download-file': 'Bestand downloaden',			
-			'mejs.install-flash': 'U gebruikt een browser die geen Flash Player heeft ingeschakeld of geïnstalleerd. Zet de Flash Player plug-in of download de nieuwste versie van https://get.adobe.com/flashplayer/',			
-			'mejs.fullscreen': 'Volledig scherm',			
+			'mejs.plural-form': 1,
+			'mejs.download-file': 'Bestand downloaden',
+			'mejs.install-flash': 'U gebruikt een browser die geen Flash Player heeft ingeschakeld of geïnstalleerd. Zet de Flash Player plug-in of download de nieuwste versie van https://get.adobe.com/flashplayer/',
+			'mejs.fullscreen': 'Volledig scherm',
 			'mejs.play': 'Afspelen',
-			'mejs.pause': 'Pauzeren',			
+			'mejs.pause': 'Pauzeren',
 			'mejs.time-slider': 'Tijd schuifbalk',
 			'mejs.time-help-text': 'Gebruik pijl naar links/rechts om per seconde te springen, pijl omhoog/omlaag om per tien seconden te springen.',
-			'mejs.live-broadcast' : 'Live uitzending',			
+			'mejs.live-broadcast': 'Live uitzending',
 			'mejs.volume-help-text': 'Gebruik pijl omhoog/omlaag om het volume te verhogen/verlagen.',
 			'mejs.unmute': 'Dempen opheffen',
 			'mejs.mute': 'Dempen',
-			'mejs.volume-slider': 'Volume schuifbalk',			
+			'mejs.volume-slider': 'Volume schuifbalk',
 			'mejs.video-player': 'Videospeler',
-			'mejs.audio-player': 'Audiospeler',			
+			'mejs.audio-player': 'Audiospeler',
 			'mejs.captions-subtitles': 'Bijschriften/ondertiteling',
 			'mejs.captions-chapters': 'Hoofdstukken',
 			'mejs.none': 'Geen',

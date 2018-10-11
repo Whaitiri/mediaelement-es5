@@ -1,32 +1,23 @@
-'use strict';/*!
- * This is a `i18n` language object.
- *
- * Italian
- *
- * @author
- *   Jalios (Twitter: @Jalios)
- *   Sascha 'SoftCreatR' Greuel
- *
- * @see core/i18n.js
- */
+'use strict';
+
 (function (exports) {
 	if (exports.it === undefined) {
 		exports.it = {
-			'mejs.plural-form': 1,			
-			'mejs.download-file': 'Scaricare il file',			
-			'mejs.install-flash': 'Stai utilizzando un browser che non dispone di Flash Player abilitato o installato. Accenda il tuo plug-in Flash Player o scarica la versione più recente da https://get.adobe.com/flashplayer/',			
-			'mejs.fullscreen': 'Schermo intero',			
+			'mejs.plural-form': 1,
+			'mejs.download-file': 'Scaricare il file',
+			'mejs.install-flash': 'Stai utilizzando un browser che non dispone di Flash Player abilitato o installato. Accenda il tuo plug-in Flash Player o scarica la versione più recente da https://get.adobe.com/flashplayer/',
+			'mejs.fullscreen': 'Schermo intero',
 			'mejs.play': 'Eseguire',
-			'mejs.pause': 'Pausa',			
+			'mejs.pause': 'Pausa',
 			'mejs.time-slider': 'Barra di scorrimento',
 			'mejs.time-help-text': 'Utilizzare i tasti Freccia sinistra/Freccia destra per avanzare di un secondo, Freccia Su/Giù per avanzare dieci secondi.',
-			'mejs.live-broadcast' : 'Trasmissione in diretta',			
+			'mejs.live-broadcast': 'Trasmissione in diretta',
 			'mejs.volume-help-text': 'Utilizzare i tasti Freccia Su/Giù per aumentare o diminuire il volume.',
 			'mejs.unmute': 'Disattivare muto',
 			'mejs.mute': 'Muto',
-			'mejs.volume-slider': 'Barra del volume',			
+			'mejs.volume-slider': 'Barra del volume',
 			'mejs.video-player': 'Lettore Video',
-			'mejs.audio-player': 'Lettore Audio',			
+			'mejs.audio-player': 'Lettore Audio',
 			'mejs.captions-subtitles': 'Acquisizioni/sottotitoli',
 			'mejs.captions-chapters': 'Capitoli',
 			'mejs.none': 'Nessuno',

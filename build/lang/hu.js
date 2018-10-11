@@ -1,32 +1,23 @@
-'use strict';/*!
- * This is a `i18n` language object.
- *
- * Hungarian
- *
- * @author
- *   Jalios (Twitter: @Jalios)
- *   Sascha Greuel (Twitter: @SoftCreatR)
- *
- * @see core/i18n.js
- */
+'use strict';
+
 (function (exports) {
 	if (exports.hu === undefined) {
 		exports.hu = {
-			'mejs.plural-form': 1,			
-			'mejs.download-file': 'Fájl letöltése',			
-			'mejs.install-flash': 'Olyan böngészőt használ, amelyhez nincs engedélyezve vagy telepítve a Flash player. Kérjük, kapcsolja be a Flash-lejátszó bővítményét, vagy töltse le a legfrissebb verziót a https://get.adobe.com/flashplayer/ címen',			
-			'mejs.fullscreen': 'Teljes képernyő',			
+			'mejs.plural-form': 1,
+			'mejs.download-file': 'Fájl letöltése',
+			'mejs.install-flash': 'Olyan böngészőt használ, amelyhez nincs engedélyezve vagy telepítve a Flash player. Kérjük, kapcsolja be a Flash-lejátszó bővítményét, vagy töltse le a legfrissebb verziót a https://get.adobe.com/flashplayer/ címen',
+			'mejs.fullscreen': 'Teljes képernyő',
 			'mejs.play': 'Lejátszás',
-			'mejs.pause': 'Szünet',			
+			'mejs.pause': 'Szünet',
 			'mejs.time-slider': 'Idő csúszka',
 			'mejs.time-help-text': 'Használja a Bal/Jobb nyíl gombokat az egy másodperces léptetéshez, a Fel/Le nyíl gombokat a tíz másodperces léptetéshez.',
-			'mejs.live-broadcast' : 'Élő közvetítés',			
+			'mejs.live-broadcast': 'Élő közvetítés',
 			'mejs.volume-help-text': 'Használja a Fel/Le nyíl gombokat a hangerő növeléséhez vagy csökkentéséhez.',
 			'mejs.unmute': 'Némítás feloldása',
 			'mejs.mute': 'Némítás',
-			'mejs.volume-slider': 'Hangerőcsúszka',			
+			'mejs.volume-slider': 'Hangerőcsúszka',
 			'mejs.video-player': 'Videolejátszó',
-			'mejs.audio-player': 'Audiolejátszó',			
+			'mejs.audio-player': 'Audiolejátszó',
 			'mejs.captions-subtitles': 'Képaláírás/Feliratok',
 			'mejs.captions-chapters': 'Fejezetek',
 			'mejs.none': 'Nincs',

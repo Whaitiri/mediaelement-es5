@@ -1,32 +1,23 @@
-'use strict';/*!
- * This is a `i18n` language object.
- *
- * Slovak
- *
- * @author
- *   Jalios (Twitter: @Jalios)
- *   Sascha Greuel (Twitter: @SoftCreatR)
- *
- * @see core/i18n.js
- */
+'use strict';
+
 (function (exports) {
 	if (exports.sk === undefined) {
 		exports.sk = {
-			'mejs.plural-form': 8,			
-			'mejs.download-file': 'Prevziať súbor',			
-			'mejs.install-flash': 'Používate prehliadač, ktorý nemá povolený alebo nainštalovaný prehrávač Flash. Zapnite doplnok prehrávača Flash alebo si prevezmite najnovšiu verziu zo stránky https://get.adobe.com/flashplayer/',			
-			'mejs.fullscreen': 'Celá obrazovka',			
+			'mejs.plural-form': 8,
+			'mejs.download-file': 'Prevziať súbor',
+			'mejs.install-flash': 'Používate prehliadač, ktorý nemá povolený alebo nainštalovaný prehrávač Flash. Zapnite doplnok prehrávača Flash alebo si prevezmite najnovšiu verziu zo stránky https://get.adobe.com/flashplayer/',
+			'mejs.fullscreen': 'Celá obrazovka',
 			'mejs.play': 'Prehrať',
-			'mejs.pause': 'Pozastaviť',			
+			'mejs.pause': 'Pozastaviť',
 			'mejs.time-slider': 'Posúvač času',
 			'mejs.time-help-text': 'Klávesmi so šípkou doľava/doprava posuniete o jednu sekundu, šípkami nahor/ nadol posuniete o desať sekúnd.',
-			'mejs.live-broadcast' : 'Živé vysielanie',			
+			'mejs.live-broadcast': 'Živé vysielanie',
 			'mejs.volume-help-text': 'Klávesmi so šípkou nahor/nadol zvýšite alebo znížite hlasitosť.',
 			'mejs.unmute': 'Zrušiť stlmenie',
 			'mejs.mute': 'Stlmiť',
-			'mejs.volume-slider': 'Posúvač hlasitosti',			
+			'mejs.volume-slider': 'Posúvač hlasitosti',
 			'mejs.video-player': 'Prehrávač videa',
-			'mejs.audio-player': 'Prehrávač zvuku',			
+			'mejs.audio-player': 'Prehrávač zvuku',
 			'mejs.captions-subtitles': 'Skryté titulky/Titulky',
 			'mejs.captions-chapters': 'Kapitoly',
 			'mejs.none': 'Žiadne',

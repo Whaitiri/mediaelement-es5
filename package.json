@@ -1,17 +1,16 @@
 {
-  "name": "mediaelement",
+  "name": "mediaelement-es5",
   "license": "MIT",
   "version": "4.2.9",
   "main": "full.js",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/mediaelement/mediaelement.git"
-  },
+  "repository": "https://github.com/Whaitiri/mediaelement-es5",
   "bugs": {
     "url": "https://github.com/mediaelement/mediaelement/issues?q=is%3Aissue+is%3Aopen+label%3ABug"
   },
   "private": false,
   "devDependencies": {
+    "@babel/cli": "^7.1.2",
+    "@babel/core": "^7.1.2",
     "autoprefixer": "^6.7.7",
     "babel-cli": "^6.24.1",
     "babel-core": "^6.24.1",
@@ -82,5 +81,7 @@
         }
       ]
     ]
-  }
+  },
+  "description": "MediaElement ES5",
+  "author": "Tuterangi Pleydell <tuterangi@gmail.com>"
 }
